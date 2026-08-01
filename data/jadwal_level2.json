@@ -1,0 +1,3005 @@
+[
+  {
+    "id_sesi": "L2-S013",
+    "mata_kuliah": "Komputasi Awan",
+    "kelas": "A",
+    "dosen": "Dr. Yoga Ph.D. (D10)",
+    "asisten": [
+      "Budi (A11)",
+      "Eka (A19)"
+    ],
+    "ruang_lab": "Lab-C",
+    "peralatan_lab": [
+      "Alat-09",
+      "Alat-10",
+      "Alat-11"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-46CA227E7CBE",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-F71B943EC556",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Printer 3D",
+        "rfid": "RFID-04F60C42AA5B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-7F90239D050A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-F1624E85F00C",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-5A187DB706D8",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-1CCA96B6E9AE",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Senin",
+    "slot": 1,
+    "warna_graph": 0
+  },
+  {
+    "id_sesi": "L2-S055",
+    "mata_kuliah": "Sistem Digital",
+    "kelas": "B",
+    "dosen": "Dr. Kartika M.Eng. (D14)",
+    "asisten": [
+      "Lutfi (A12)",
+      "Zahra (A21)"
+    ],
+    "ruang_lab": "Lab-B",
+    "peralatan_lab": [
+      "Alat-04"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-64E75222E657",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-EC48D3B81462",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-4398557E1EFA",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "UPS",
+        "rfid": "RFID-6FBA73BB0483",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Panel Listrik",
+        "rfid": "RFID-281180E64D29",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-595AD0C1018D",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Senin",
+    "slot": 1,
+    "warna_graph": 0
+  },
+  {
+    "id_sesi": "L2-S004",
+    "mata_kuliah": "Pemrograman Mobile",
+    "kelas": "A",
+    "dosen": "Dr. Umi S.Kom., M.Kom. (D15)",
+    "asisten": [
+      "Vina (A09)"
+    ],
+    "ruang_lab": "Lab-D",
+    "peralatan_lab": [
+      "Alat-03"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4CE596856B72",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-33966505A892",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-779143C98301",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-73FA5401F8C3",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-BD7E92E4E868",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-4FCF88C8FE7A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-027A6C806A42",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-BA430D5D48D0",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Senin",
+    "slot": 2,
+    "warna_graph": 0
+  },
+  {
+    "id_sesi": "L2-S025",
+    "mata_kuliah": "Pemrograman Mobile",
+    "kelas": "B",
+    "dosen": "Dr. Yoga M.Eng. (D12)",
+    "asisten": [
+      "Indah (A06)"
+    ],
+    "ruang_lab": "Lab-A",
+    "peralatan_lab": [
+      "Alat-06"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-577C27FBF9FB",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-230CA8F5315D",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-BFCA72EB0AE1",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kamera CCTV",
+        "rfid": "RFID-04BA3DD4F418",
+        "kondisi": "Perlu Perbaikan"
+      }
+    ],
+    "hari": "Senin",
+    "slot": 3,
+    "warna_graph": 0
+  },
+  {
+    "id_sesi": "L2-S064",
+    "mata_kuliah": "Grafika Komputer",
+    "kelas": "B",
+    "dosen": "Dr. Adi S.Kom., M.Kom. (D05)",
+    "asisten": [
+      "Putri (A15)"
+    ],
+    "ruang_lab": "Lab-E",
+    "peralatan_lab": [
+      "Alat-01",
+      "Alat-02",
+      "Alat-12"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Rak Peralatan",
+        "rfid": "RFID-A3B5D0584693",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4BF1E271E48F",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-90122A6EB39F",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-3E015DEF35DC",
+        "kondisi": "Dalam Perawatan"
+      }
+    ],
+    "hari": "Senin",
+    "slot": 4,
+    "warna_graph": 0
+  },
+  {
+    "id_sesi": "L2-S057",
+    "mata_kuliah": "Pemrograman Mobile",
+    "kelas": "A",
+    "dosen": "Dr. Farhan M.Cs. (D08)",
+    "asisten": [
+      "Taufik (A04)"
+    ],
+    "ruang_lab": "Lab-F",
+    "peralatan_lab": [
+      "Alat-07"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-3455CB807522",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-B38B0D466021",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Panel Listrik",
+        "rfid": "RFID-DA3C8BB31CA0",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-AFD9ADEF246F",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Senin",
+    "slot": 5,
+    "warna_graph": 0
+  },
+  {
+    "id_sesi": "L2-S049",
+    "mata_kuliah": "Pemrograman Web",
+    "kelas": "B",
+    "dosen": "Dr. Adi S.T., M.T. (D07)",
+    "asisten": [
+      "Putri (A16)"
+    ],
+    "ruang_lab": "Lab-G",
+    "peralatan_lab": [
+      "Alat-13",
+      "Alat-14"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-21D601430B04",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "UPS",
+        "rfid": "RFID-953C5C042370",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-2D0045FB696E",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-6A9806D6ABC6",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Senin",
+    "slot": 6,
+    "warna_graph": 0
+  },
+  {
+    "id_sesi": "L2-S044",
+    "mata_kuliah": "Keamanan Jaringan",
+    "kelas": "B",
+    "dosen": "Dr. Farhan M.Cs. (D08)",
+    "asisten": [
+      "Budi (A11)",
+      "Indah (A20)"
+    ],
+    "ruang_lab": "Lab-A",
+    "peralatan_lab": [
+      "Alat-08",
+      "Alat-10",
+      "Alat-12"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-577C27FBF9FB",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-230CA8F5315D",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-BFCA72EB0AE1",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kamera CCTV",
+        "rfid": "RFID-04BA3DD4F418",
+        "kondisi": "Perlu Perbaikan"
+      }
+    ],
+    "hari": "Senin",
+    "slot": 7,
+    "warna_graph": 1
+  },
+  {
+    "id_sesi": "L2-S027",
+    "mata_kuliah": "Struktur Data",
+    "kelas": "A",
+    "dosen": "Dr. Dewi M.Cs. (D06)",
+    "asisten": [
+      "Putri (A16)"
+    ],
+    "ruang_lab": "Lab-B",
+    "peralatan_lab": [
+      "Alat-14"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-64E75222E657",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-EC48D3B81462",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-4398557E1EFA",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "UPS",
+        "rfid": "RFID-6FBA73BB0483",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Panel Listrik",
+        "rfid": "RFID-281180E64D29",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-595AD0C1018D",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Senin",
+    "slot": 7,
+    "warna_graph": 1
+  },
+  {
+    "id_sesi": "L2-S043",
+    "mata_kuliah": "Data Mining",
+    "kelas": "B",
+    "dosen": "Dr. Adi S.Kom., M.Kom. (D05)",
+    "asisten": [
+      "Vina (A09)"
+    ],
+    "ruang_lab": "Lab-C",
+    "peralatan_lab": [
+      "Alat-03",
+      "Alat-11"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-46CA227E7CBE",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-F71B943EC556",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Printer 3D",
+        "rfid": "RFID-04F60C42AA5B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-7F90239D050A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-F1624E85F00C",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-5A187DB706D8",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-1CCA96B6E9AE",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Senin",
+    "slot": 8,
+    "warna_graph": 1
+  },
+  {
+    "id_sesi": "L2-S023",
+    "mata_kuliah": "IoT",
+    "kelas": "A",
+    "dosen": "Dr. Nanda M.Cs. (D01)",
+    "asisten": [
+      "Maya (A13)"
+    ],
+    "ruang_lab": "Lab-D",
+    "peralatan_lab": [
+      "Alat-01",
+      "Alat-07"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4CE596856B72",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-33966505A892",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-779143C98301",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-73FA5401F8C3",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-BD7E92E4E868",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-4FCF88C8FE7A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-027A6C806A42",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-BA430D5D48D0",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Senin",
+    "slot": 9,
+    "warna_graph": 1
+  },
+  {
+    "id_sesi": "L2-S010",
+    "mata_kuliah": "Sistem Tertanam",
+    "kelas": "B",
+    "dosen": "Dr. Yoga M.Eng. (D09)",
+    "asisten": [
+      "Dewi (A05)"
+    ],
+    "ruang_lab": "Lab-F",
+    "peralatan_lab": [
+      "Alat-04",
+      "Alat-06"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-3455CB807522",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-B38B0D466021",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Panel Listrik",
+        "rfid": "RFID-DA3C8BB31CA0",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-AFD9ADEF246F",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Senin",
+    "slot": 10,
+    "warna_graph": 1
+  },
+  {
+    "id_sesi": "L2-S019",
+    "mata_kuliah": "Sistem Digital",
+    "kelas": "B",
+    "dosen": "Dr. Lutfi S.T., M.T. (D13)",
+    "asisten": [
+      "Putri (A16)"
+    ],
+    "ruang_lab": "Lab-C",
+    "peralatan_lab": [
+      "Alat-06",
+      "Alat-07",
+      "Alat-10"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-46CA227E7CBE",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-F71B943EC556",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Printer 3D",
+        "rfid": "RFID-04F60C42AA5B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-7F90239D050A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-F1624E85F00C",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-5A187DB706D8",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-1CCA96B6E9AE",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Selasa",
+    "slot": 1,
+    "warna_graph": 2
+  },
+  {
+    "id_sesi": "L2-S020",
+    "mata_kuliah": "Multimedia",
+    "kelas": "A",
+    "dosen": "Dr. Umi S.Kom., M.Kom. (D15)",
+    "asisten": [
+      "Indah (A20)",
+      "Vina (A09)"
+    ],
+    "ruang_lab": "Lab-H",
+    "peralatan_lab": [
+      "Alat-15"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-C287A1708DFF",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Router",
+        "rfid": "RFID-9CCE810B9D2D",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-71B1CC6E6D4B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-5C65CD7928BA",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-951060ABB8AD",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Selasa",
+    "slot": 1,
+    "warna_graph": 2
+  },
+  {
+    "id_sesi": "L2-S009",
+    "mata_kuliah": "Pemrograman Mobile",
+    "kelas": "A",
+    "dosen": "Dr. Adi S.T., M.T. (D07)",
+    "asisten": [
+      "Budi (A11)",
+      "Dewi (A01)"
+    ],
+    "ruang_lab": "Lab-E",
+    "peralatan_lab": [
+      "Alat-03"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Rak Peralatan",
+        "rfid": "RFID-A3B5D0584693",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4BF1E271E48F",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-90122A6EB39F",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-3E015DEF35DC",
+        "kondisi": "Dalam Perawatan"
+      }
+    ],
+    "hari": "Selasa",
+    "slot": 2,
+    "warna_graph": 2
+  },
+  {
+    "id_sesi": "L2-S034",
+    "mata_kuliah": "Mikrokontroler",
+    "kelas": "C",
+    "dosen": "Dr. Kartika M.Eng. (D14)",
+    "asisten": [
+      "Gita (A17)",
+      "Kartika (A07)"
+    ],
+    "ruang_lab": "Lab-A",
+    "peralatan_lab": [
+      "Alat-01",
+      "Alat-08",
+      "Alat-11"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-577C27FBF9FB",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-230CA8F5315D",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-BFCA72EB0AE1",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kamera CCTV",
+        "rfid": "RFID-04BA3DD4F418",
+        "kondisi": "Perlu Perbaikan"
+      }
+    ],
+    "hari": "Selasa",
+    "slot": 3,
+    "warna_graph": 2
+  },
+  {
+    "id_sesi": "L2-S008",
+    "mata_kuliah": "Grafika Komputer",
+    "kelas": "B",
+    "dosen": "Dr. Farhan Ph.D. (D03)",
+    "asisten": [
+      "Joko (A10)"
+    ],
+    "ruang_lab": "Lab-B",
+    "peralatan_lab": [
+      "Alat-09",
+      "Alat-12",
+      "Alat-13"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-64E75222E657",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-EC48D3B81462",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-4398557E1EFA",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "UPS",
+        "rfid": "RFID-6FBA73BB0483",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Panel Listrik",
+        "rfid": "RFID-281180E64D29",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-595AD0C1018D",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Selasa",
+    "slot": 4,
+    "warna_graph": 2
+  },
+  {
+    "id_sesi": "L2-S015",
+    "mata_kuliah": "Jaringan Komputer",
+    "kelas": "A",
+    "dosen": "Dr. Dewi M.Cs. (D06)",
+    "asisten": [
+      "Dewi (A01)"
+    ],
+    "ruang_lab": "Lab-G",
+    "peralatan_lab": [
+      "Alat-01",
+      "Alat-03",
+      "Alat-10"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-21D601430B04",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "UPS",
+        "rfid": "RFID-953C5C042370",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-2D0045FB696E",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-6A9806D6ABC6",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Selasa",
+    "slot": 5,
+    "warna_graph": 3
+  },
+  {
+    "id_sesi": "L2-S047",
+    "mata_kuliah": "Data Mining",
+    "kelas": "C",
+    "dosen": "Dr. Umi S.Kom., M.Kom. (D15)",
+    "asisten": [
+      "Kartika (A07)"
+    ],
+    "ruang_lab": "Lab-B",
+    "peralatan_lab": [
+      "Alat-08"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-64E75222E657",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-EC48D3B81462",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-4398557E1EFA",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "UPS",
+        "rfid": "RFID-6FBA73BB0483",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Panel Listrik",
+        "rfid": "RFID-281180E64D29",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-595AD0C1018D",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Selasa",
+    "slot": 5,
+    "warna_graph": 3
+  },
+  {
+    "id_sesi": "L2-S048",
+    "mata_kuliah": "Komputasi Awan",
+    "kelas": "C",
+    "dosen": "Dr. Adi S.T., M.T. (D07)",
+    "asisten": [
+      "Joko (A10)",
+      "Rama (A02)"
+    ],
+    "ruang_lab": "Lab-A",
+    "peralatan_lab": [
+      "Alat-02",
+      "Alat-05",
+      "Alat-09"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-577C27FBF9FB",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-230CA8F5315D",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-BFCA72EB0AE1",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kamera CCTV",
+        "rfid": "RFID-04BA3DD4F418",
+        "kondisi": "Perlu Perbaikan"
+      }
+    ],
+    "hari": "Selasa",
+    "slot": 6,
+    "warna_graph": 3
+  },
+  {
+    "id_sesi": "L2-S016",
+    "mata_kuliah": "Struktur Data",
+    "kelas": "A",
+    "dosen": "Dr. Yoga M.Eng. (D09)",
+    "asisten": [
+      "Eka (A19)",
+      "Putri (A16)"
+    ],
+    "ruang_lab": "Lab-E",
+    "peralatan_lab": [
+      "Alat-11"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Rak Peralatan",
+        "rfid": "RFID-A3B5D0584693",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4BF1E271E48F",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-90122A6EB39F",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-3E015DEF35DC",
+        "kondisi": "Dalam Perawatan"
+      }
+    ],
+    "hari": "Selasa",
+    "slot": 7,
+    "warna_graph": 3
+  },
+  {
+    "id_sesi": "L2-S030",
+    "mata_kuliah": "Basis Data",
+    "kelas": "A",
+    "dosen": "Dr. Sari S.T., M.T. (D02)",
+    "asisten": [
+      "Dewi (A14)",
+      "Maya (A13)"
+    ],
+    "ruang_lab": "Lab-D",
+    "peralatan_lab": [
+      "Alat-06"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4CE596856B72",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-33966505A892",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-779143C98301",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-73FA5401F8C3",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-BD7E92E4E868",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-4FCF88C8FE7A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-027A6C806A42",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-BA430D5D48D0",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Selasa",
+    "slot": 8,
+    "warna_graph": 3
+  },
+  {
+    "id_sesi": "L2-S022",
+    "mata_kuliah": "Sistem Operasi",
+    "kelas": "C",
+    "dosen": "Dr. Farhan M.Cs. (D08)",
+    "asisten": [
+      "Gita (A17)"
+    ],
+    "ruang_lab": "Lab-H",
+    "peralatan_lab": [
+      "Alat-07",
+      "Alat-12",
+      "Alat-15"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-C287A1708DFF",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Router",
+        "rfid": "RFID-9CCE810B9D2D",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-71B1CC6E6D4B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-5C65CD7928BA",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-951060ABB8AD",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Selasa",
+    "slot": 9,
+    "warna_graph": 3
+  },
+  {
+    "id_sesi": "L2-S052",
+    "mata_kuliah": "Grafika Komputer",
+    "kelas": "B",
+    "dosen": "Dr. Yoga Ph.D. (D10)",
+    "asisten": [
+      "Taufik (A04)",
+      "Zahra (A21)"
+    ],
+    "ruang_lab": "Lab-C",
+    "peralatan_lab": [
+      "Alat-14"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-46CA227E7CBE",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-F71B943EC556",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Printer 3D",
+        "rfid": "RFID-04F60C42AA5B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-7F90239D050A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-F1624E85F00C",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-5A187DB706D8",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-1CCA96B6E9AE",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Selasa",
+    "slot": 10,
+    "warna_graph": 3
+  },
+  {
+    "id_sesi": "L2-S011",
+    "mata_kuliah": "Rekayasa Perangkat Lunak",
+    "kelas": "A",
+    "dosen": "Dr. Yoga Ph.D. (D10)",
+    "asisten": [
+      "Joko (A10)"
+    ],
+    "ruang_lab": "Lab-E",
+    "peralatan_lab": [
+      "Alat-03",
+      "Alat-07",
+      "Alat-08"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Rak Peralatan",
+        "rfid": "RFID-A3B5D0584693",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4BF1E271E48F",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-90122A6EB39F",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-3E015DEF35DC",
+        "kondisi": "Dalam Perawatan"
+      }
+    ],
+    "hari": "Rabu",
+    "slot": 1,
+    "warna_graph": 4
+  },
+  {
+    "id_sesi": "L2-S031",
+    "mata_kuliah": "Struktur Data",
+    "kelas": "C",
+    "dosen": "Dr. Yoga M.Eng. (D09)",
+    "asisten": [
+      "Hadi (A22)"
+    ],
+    "ruang_lab": "Lab-D",
+    "peralatan_lab": [
+      "Alat-06",
+      "Alat-09",
+      "Alat-11"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4CE596856B72",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-33966505A892",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-779143C98301",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-73FA5401F8C3",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-BD7E92E4E868",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-4FCF88C8FE7A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-027A6C806A42",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-BA430D5D48D0",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Rabu",
+    "slot": 2,
+    "warna_graph": 4
+  },
+  {
+    "id_sesi": "L2-S033",
+    "mata_kuliah": "Rekayasa Perangkat Lunak",
+    "kelas": "C",
+    "dosen": "Dr. Umi S.Kom., M.Kom. (D15)",
+    "asisten": [
+      "Budi (A11)"
+    ],
+    "ruang_lab": "Lab-A",
+    "peralatan_lab": [
+      "Alat-01",
+      "Alat-13"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-577C27FBF9FB",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-230CA8F5315D",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-BFCA72EB0AE1",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kamera CCTV",
+        "rfid": "RFID-04BA3DD4F418",
+        "kondisi": "Perlu Perbaikan"
+      }
+    ],
+    "hari": "Rabu",
+    "slot": 3,
+    "warna_graph": 4
+  },
+  {
+    "id_sesi": "L2-S006",
+    "mata_kuliah": "Komputasi Awan",
+    "kelas": "A",
+    "dosen": "Dr. Farhan M.Cs. (D08)",
+    "asisten": [
+      "Gita (A18)"
+    ],
+    "ruang_lab": "Lab-C",
+    "peralatan_lab": [
+      "Alat-10"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-46CA227E7CBE",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-F71B943EC556",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Printer 3D",
+        "rfid": "RFID-04F60C42AA5B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-7F90239D050A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-F1624E85F00C",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-5A187DB706D8",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-1CCA96B6E9AE",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Rabu",
+    "slot": 4,
+    "warna_graph": 4
+  },
+  {
+    "id_sesi": "L2-S035",
+    "mata_kuliah": "Data Mining",
+    "kelas": "B",
+    "dosen": "Dr. Adi S.T., M.T. (D07)",
+    "asisten": [
+      "Dewi (A08)",
+      "Joko (A10)"
+    ],
+    "ruang_lab": "Lab-C",
+    "peralatan_lab": [
+      "Alat-07",
+      "Alat-10",
+      "Alat-15"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-46CA227E7CBE",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-F71B943EC556",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Printer 3D",
+        "rfid": "RFID-04F60C42AA5B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-7F90239D050A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-F1624E85F00C",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-5A187DB706D8",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-1CCA96B6E9AE",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Rabu",
+    "slot": 5,
+    "warna_graph": 5
+  },
+  {
+    "id_sesi": "L2-S059",
+    "mata_kuliah": "Machine Learning",
+    "kelas": "A",
+    "dosen": "Dr. Umi S.Kom., M.Kom. (D15)",
+    "asisten": [
+      "Eka (A19)",
+      "Vina (A09)"
+    ],
+    "ruang_lab": "Lab-H",
+    "peralatan_lab": [
+      "Alat-03",
+      "Alat-08",
+      "Alat-12"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-C287A1708DFF",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Router",
+        "rfid": "RFID-9CCE810B9D2D",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-71B1CC6E6D4B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-5C65CD7928BA",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-951060ABB8AD",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Rabu",
+    "slot": 6,
+    "warna_graph": 5
+  },
+  {
+    "id_sesi": "L2-S014",
+    "mata_kuliah": "Keamanan Jaringan",
+    "kelas": "B",
+    "dosen": "Dr. Farhan M.Cs. (D08)",
+    "asisten": [
+      "Budi (A11)",
+      "Taufik (A04)"
+    ],
+    "ruang_lab": "Lab-A",
+    "peralatan_lab": [
+      "Alat-11"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-577C27FBF9FB",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-230CA8F5315D",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-BFCA72EB0AE1",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kamera CCTV",
+        "rfid": "RFID-04BA3DD4F418",
+        "kondisi": "Perlu Perbaikan"
+      }
+    ],
+    "hari": "Rabu",
+    "slot": 7,
+    "warna_graph": 5
+  },
+  {
+    "id_sesi": "L2-S062",
+    "mata_kuliah": "Sistem Digital",
+    "kelas": "B",
+    "dosen": "Dr. Yoga Ph.D. (D10)",
+    "asisten": [
+      "Maya (A13)"
+    ],
+    "ruang_lab": "Lab-D",
+    "peralatan_lab": [
+      "Alat-06",
+      "Alat-09"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4CE596856B72",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-33966505A892",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-779143C98301",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-73FA5401F8C3",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-BD7E92E4E868",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-4FCF88C8FE7A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-027A6C806A42",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-BA430D5D48D0",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Rabu",
+    "slot": 8,
+    "warna_graph": 5
+  },
+  {
+    "id_sesi": "L2-S060",
+    "mata_kuliah": "Pemrograman Web",
+    "kelas": "A",
+    "dosen": "Dr. Adi S.T., M.T. (D07)",
+    "asisten": [
+      "Dewi (A05)"
+    ],
+    "ruang_lab": "Lab-G",
+    "peralatan_lab": [
+      "Alat-03",
+      "Alat-10"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-21D601430B04",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "UPS",
+        "rfid": "RFID-953C5C042370",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-2D0045FB696E",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-6A9806D6ABC6",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Rabu",
+    "slot": 9,
+    "warna_graph": 6
+  },
+  {
+    "id_sesi": "L2-S040",
+    "mata_kuliah": "Struktur Data",
+    "kelas": "A",
+    "dosen": "Dr. Farhan Ph.D. (D03)",
+    "asisten": [
+      "Putri (A15)"
+    ],
+    "ruang_lab": "Lab-C",
+    "peralatan_lab": [
+      "Alat-15"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-46CA227E7CBE",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-F71B943EC556",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Printer 3D",
+        "rfid": "RFID-04F60C42AA5B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-7F90239D050A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-F1624E85F00C",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-5A187DB706D8",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-1CCA96B6E9AE",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Rabu",
+    "slot": 9,
+    "warna_graph": 6
+  },
+  {
+    "id_sesi": "L2-S024",
+    "mata_kuliah": "Jaringan Komputer",
+    "kelas": "B",
+    "dosen": "Dr. Yoga M.Eng. (D12)",
+    "asisten": [
+      "Joko (A10)",
+      "Rama (A02)"
+    ],
+    "ruang_lab": "Lab-H",
+    "peralatan_lab": [
+      "Alat-11"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-C287A1708DFF",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Router",
+        "rfid": "RFID-9CCE810B9D2D",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-71B1CC6E6D4B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-5C65CD7928BA",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-951060ABB8AD",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Rabu",
+    "slot": 10,
+    "warna_graph": 6
+  },
+  {
+    "id_sesi": "L2-S038",
+    "mata_kuliah": "Sistem Operasi",
+    "kelas": "C",
+    "dosen": "Dr. Umi S.Kom., M.Kom. (D15)",
+    "asisten": [
+      "Budi (A11)",
+      "Zahra (A21)"
+    ],
+    "ruang_lab": "Lab-D",
+    "peralatan_lab": [
+      "Alat-01",
+      "Alat-12"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4CE596856B72",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-33966505A892",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-779143C98301",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-73FA5401F8C3",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-BD7E92E4E868",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-4FCF88C8FE7A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-027A6C806A42",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-BA430D5D48D0",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Kamis",
+    "slot": 1,
+    "warna_graph": 6
+  },
+  {
+    "id_sesi": "L2-S012",
+    "mata_kuliah": "Keamanan Jaringan",
+    "kelas": "A",
+    "dosen": "Dr. Adi S.Kom., M.Kom. (D05)",
+    "asisten": [
+      "Dewi (A01)",
+      "Putri (A16)"
+    ],
+    "ruang_lab": "Lab-A",
+    "peralatan_lab": [
+      "Alat-08"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-577C27FBF9FB",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-230CA8F5315D",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-BFCA72EB0AE1",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kamera CCTV",
+        "rfid": "RFID-04BA3DD4F418",
+        "kondisi": "Perlu Perbaikan"
+      }
+    ],
+    "hari": "Kamis",
+    "slot": 2,
+    "warna_graph": 6
+  },
+  {
+    "id_sesi": "L2-S037",
+    "mata_kuliah": "Pemrograman Web",
+    "kelas": "B",
+    "dosen": "Dr. Yoga M.Eng. (D09)",
+    "asisten": [
+      "Indah (A20)"
+    ],
+    "ruang_lab": "Lab-F",
+    "peralatan_lab": [
+      "Alat-06"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-3455CB807522",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-B38B0D466021",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Panel Listrik",
+        "rfid": "RFID-DA3C8BB31CA0",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-AFD9ADEF246F",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Kamis",
+    "slot": 3,
+    "warna_graph": 6
+  },
+  {
+    "id_sesi": "L2-S018",
+    "mata_kuliah": "Multimedia",
+    "kelas": "B",
+    "dosen": "Dr. Sari S.T., M.T. (D02)",
+    "asisten": [
+      "Hadi (A22)"
+    ],
+    "ruang_lab": "Lab-C",
+    "peralatan_lab": [
+      "Alat-03"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-46CA227E7CBE",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-F71B943EC556",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Printer 3D",
+        "rfid": "RFID-04F60C42AA5B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-7F90239D050A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-F1624E85F00C",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-5A187DB706D8",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-1CCA96B6E9AE",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Kamis",
+    "slot": 4,
+    "warna_graph": 7
+  },
+  {
+    "id_sesi": "L2-S045",
+    "mata_kuliah": "Algoritma & Pemrograman",
+    "kelas": "C",
+    "dosen": "Dr. Hadi M.Eng. (D04)",
+    "asisten": [
+      "Budi (A11)",
+      "Vina (A09)"
+    ],
+    "ruang_lab": "Lab-H",
+    "peralatan_lab": [
+      "Alat-05",
+      "Alat-07"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-C287A1708DFF",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Router",
+        "rfid": "RFID-9CCE810B9D2D",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-71B1CC6E6D4B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-5C65CD7928BA",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-951060ABB8AD",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Kamis",
+    "slot": 4,
+    "warna_graph": 7
+  },
+  {
+    "id_sesi": "L2-S005",
+    "mata_kuliah": "Jaringan Komputer",
+    "kelas": "A",
+    "dosen": "Dr. Yoga M.Eng. (D09)",
+    "asisten": [
+      "Dewi (A14)",
+      "Indah (A06)"
+    ],
+    "ruang_lab": "Lab-F",
+    "peralatan_lab": [
+      "Alat-01",
+      "Alat-11",
+      "Alat-12"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-3455CB807522",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-B38B0D466021",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Panel Listrik",
+        "rfid": "RFID-DA3C8BB31CA0",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-AFD9ADEF246F",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Kamis",
+    "slot": 5,
+    "warna_graph": 7
+  },
+  {
+    "id_sesi": "L2-S054",
+    "mata_kuliah": "Pemrograman Mobile",
+    "kelas": "B",
+    "dosen": "Dr. Kartika M.Eng. (D14)",
+    "asisten": [
+      "Eka (A19)",
+      "Putri (A15)"
+    ],
+    "ruang_lab": "Lab-E",
+    "peralatan_lab": [
+      "Alat-06"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Rak Peralatan",
+        "rfid": "RFID-A3B5D0584693",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4BF1E271E48F",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-90122A6EB39F",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-3E015DEF35DC",
+        "kondisi": "Dalam Perawatan"
+      }
+    ],
+    "hari": "Kamis",
+    "slot": 5,
+    "warna_graph": 7
+  },
+  {
+    "id_sesi": "L2-S041",
+    "mata_kuliah": "Machine Learning",
+    "kelas": "C",
+    "dosen": "Dr. Adi S.Kom., M.Kom. (D05)",
+    "asisten": [
+      "Taufik (A04)"
+    ],
+    "ruang_lab": "Lab-D",
+    "peralatan_lab": [
+      "Alat-02",
+      "Alat-10"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4CE596856B72",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-33966505A892",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-779143C98301",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-73FA5401F8C3",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-BD7E92E4E868",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-4FCF88C8FE7A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-027A6C806A42",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-BA430D5D48D0",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Kamis",
+    "slot": 6,
+    "warna_graph": 7
+  },
+  {
+    "id_sesi": "L2-S036",
+    "mata_kuliah": "Sistem Operasi",
+    "kelas": "A",
+    "dosen": "Dr. Kartika M.Eng. (D14)",
+    "asisten": [
+      "Kartika (A07)"
+    ],
+    "ruang_lab": "Lab-G",
+    "peralatan_lab": [
+      "Alat-03",
+      "Alat-09",
+      "Alat-15"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-21D601430B04",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "UPS",
+        "rfid": "RFID-953C5C042370",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-2D0045FB696E",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-6A9806D6ABC6",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Kamis",
+    "slot": 7,
+    "warna_graph": 8
+  },
+  {
+    "id_sesi": "L2-S061",
+    "mata_kuliah": "Sistem Digital",
+    "kelas": "C",
+    "dosen": "Dr. Taufik Ph.D. (D11)",
+    "asisten": [
+      "Dewi (A14)",
+      "Putri (A16)"
+    ],
+    "ruang_lab": "Lab-F",
+    "peralatan_lab": [
+      "Alat-08"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-3455CB807522",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-B38B0D466021",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Panel Listrik",
+        "rfid": "RFID-DA3C8BB31CA0",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-AFD9ADEF246F",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Kamis",
+    "slot": 7,
+    "warna_graph": 8
+  },
+  {
+    "id_sesi": "L2-S032",
+    "mata_kuliah": "Sistem Digital",
+    "kelas": "B",
+    "dosen": "Dr. Hadi M.Eng. (D04)",
+    "asisten": [
+      "Gita (A17)"
+    ],
+    "ruang_lab": "Lab-D",
+    "peralatan_lab": [
+      "Alat-10",
+      "Alat-11"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4CE596856B72",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-33966505A892",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-779143C98301",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-73FA5401F8C3",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-BD7E92E4E868",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-4FCF88C8FE7A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-027A6C806A42",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-BA430D5D48D0",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Kamis",
+    "slot": 8,
+    "warna_graph": 8
+  },
+  {
+    "id_sesi": "L2-S026",
+    "mata_kuliah": "Basis Data",
+    "kelas": "C",
+    "dosen": "Dr. Adi S.Kom., M.Kom. (D05)",
+    "asisten": [
+      "Budi (A11)",
+      "Joko (A10)"
+    ],
+    "ruang_lab": "Lab-C",
+    "peralatan_lab": [
+      "Alat-07"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-46CA227E7CBE",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-F71B943EC556",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Printer 3D",
+        "rfid": "RFID-04F60C42AA5B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-7F90239D050A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-F1624E85F00C",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-5A187DB706D8",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-1CCA96B6E9AE",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Kamis",
+    "slot": 9,
+    "warna_graph": 8
+  },
+  {
+    "id_sesi": "L2-S050",
+    "mata_kuliah": "Sistem Operasi",
+    "kelas": "B",
+    "dosen": "Dr. Yoga Ph.D. (D10)",
+    "asisten": [
+      "Lutfi (A12)"
+    ],
+    "ruang_lab": "Lab-E",
+    "peralatan_lab": [
+      "Alat-02",
+      "Alat-03",
+      "Alat-11"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Rak Peralatan",
+        "rfid": "RFID-A3B5D0584693",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4BF1E271E48F",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-90122A6EB39F",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-3E015DEF35DC",
+        "kondisi": "Dalam Perawatan"
+      }
+    ],
+    "hari": "Kamis",
+    "slot": 10,
+    "warna_graph": 9
+  },
+  {
+    "id_sesi": "L2-S002",
+    "mata_kuliah": "Kecerdasan Buatan",
+    "kelas": "A",
+    "dosen": "Dr. Adi S.Kom., M.Kom. (D05)",
+    "asisten": [
+      "Indah (A06)",
+      "Vina (A09)"
+    ],
+    "ruang_lab": "Lab-G",
+    "peralatan_lab": [
+      "Alat-13",
+      "Alat-15"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-21D601430B04",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "UPS",
+        "rfid": "RFID-953C5C042370",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-2D0045FB696E",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-6A9806D6ABC6",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Kamis",
+    "slot": 10,
+    "warna_graph": 9
+  },
+  {
+    "id_sesi": "L2-S065",
+    "mata_kuliah": "Kecerdasan Buatan",
+    "kelas": "B",
+    "dosen": "Dr. Lutfi S.T., M.T. (D13)",
+    "asisten": [
+      "Dewi (A14)"
+    ],
+    "ruang_lab": "Lab-F",
+    "peralatan_lab": [
+      "Alat-06",
+      "Alat-10",
+      "Alat-14"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-3455CB807522",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-B38B0D466021",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Panel Listrik",
+        "rfid": "RFID-DA3C8BB31CA0",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-AFD9ADEF246F",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 1,
+    "warna_graph": 9
+  },
+  {
+    "id_sesi": "L2-S058",
+    "mata_kuliah": "Kecerdasan Buatan",
+    "kelas": "B",
+    "dosen": "Dr. Yoga M.Eng. (D09)",
+    "asisten": [
+      "Budi (A11)"
+    ],
+    "ruang_lab": "Lab-A",
+    "peralatan_lab": [
+      "Alat-07"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-577C27FBF9FB",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-230CA8F5315D",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-BFCA72EB0AE1",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kamera CCTV",
+        "rfid": "RFID-04BA3DD4F418",
+        "kondisi": "Perlu Perbaikan"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 1,
+    "warna_graph": 9
+  },
+  {
+    "id_sesi": "L2-S007",
+    "mata_kuliah": "Data Mining",
+    "kelas": "C",
+    "dosen": "Dr. Dewi M.Cs. (D06)",
+    "asisten": [
+      "Eka (A19)",
+      "Indah (A20)"
+    ],
+    "ruang_lab": "Lab-D",
+    "peralatan_lab": [
+      "Alat-01"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4CE596856B72",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-33966505A892",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-779143C98301",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-73FA5401F8C3",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-BD7E92E4E868",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-4FCF88C8FE7A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-027A6C806A42",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-BA430D5D48D0",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 2,
+    "warna_graph": 9
+  },
+  {
+    "id_sesi": "L2-S028",
+    "mata_kuliah": "Mikrokontroler",
+    "kelas": "C",
+    "dosen": "Dr. Yoga M.Eng. (D12)",
+    "asisten": [
+      "Eka (A19)",
+      "Putri (A15)"
+    ],
+    "ruang_lab": "Lab-G",
+    "peralatan_lab": [
+      "Alat-03"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-21D601430B04",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "UPS",
+        "rfid": "RFID-953C5C042370",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-2D0045FB696E",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-6A9806D6ABC6",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 3,
+    "warna_graph": 10
+  },
+  {
+    "id_sesi": "L2-S046",
+    "mata_kuliah": "Pemrograman Mobile",
+    "kelas": "A",
+    "dosen": "Dr. Kartika M.Eng. (D14)",
+    "asisten": [
+      "Indah (A20)",
+      "Taufik (A04)"
+    ],
+    "ruang_lab": "Lab-H",
+    "peralatan_lab": [
+      "Alat-10"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-C287A1708DFF",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Router",
+        "rfid": "RFID-9CCE810B9D2D",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-71B1CC6E6D4B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-5C65CD7928BA",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-951060ABB8AD",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 3,
+    "warna_graph": 10
+  },
+  {
+    "id_sesi": "L2-S001",
+    "mata_kuliah": "Rekayasa Perangkat Lunak",
+    "kelas": "C",
+    "dosen": "Dr. Hadi M.Eng. (D04)",
+    "asisten": [
+      "Budi (A11)",
+      "Dewi (A14)"
+    ],
+    "ruang_lab": "Lab-D",
+    "peralatan_lab": [
+      "Alat-11"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4CE596856B72",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-33966505A892",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-779143C98301",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-73FA5401F8C3",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-BD7E92E4E868",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-4FCF88C8FE7A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-027A6C806A42",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-BA430D5D48D0",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 4,
+    "warna_graph": 10
+  },
+  {
+    "id_sesi": "L2-S042",
+    "mata_kuliah": "Jaringan Komputer",
+    "kelas": "A",
+    "dosen": "Dr. Dewi M.Cs. (D06)",
+    "asisten": [
+      "Gita (A18)",
+      "Hadi (A22)"
+    ],
+    "ruang_lab": "Lab-F",
+    "peralatan_lab": [
+      "Alat-01",
+      "Alat-09"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-3455CB807522",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-B38B0D466021",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Panel Listrik",
+        "rfid": "RFID-DA3C8BB31CA0",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-AFD9ADEF246F",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 5,
+    "warna_graph": 10
+  },
+  {
+    "id_sesi": "L2-S021",
+    "mata_kuliah": "Machine Learning",
+    "kelas": "B",
+    "dosen": "Dr. Yoga M.Eng. (D09)",
+    "asisten": [
+      "Indah (A06)"
+    ],
+    "ruang_lab": "Lab-E",
+    "peralatan_lab": [
+      "Alat-02",
+      "Alat-11",
+      "Alat-13"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Rak Peralatan",
+        "rfid": "RFID-A3B5D0584693",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4BF1E271E48F",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-90122A6EB39F",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-3E015DEF35DC",
+        "kondisi": "Dalam Perawatan"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 6,
+    "warna_graph": 11
+  },
+  {
+    "id_sesi": "L2-S039",
+    "mata_kuliah": "Komputasi Awan",
+    "kelas": "A",
+    "dosen": "Dr. Umi S.Kom., M.Kom. (D15)",
+    "asisten": [
+      "Citra (A03)",
+      "Dewi (A01)"
+    ],
+    "ruang_lab": "Lab-B",
+    "peralatan_lab": [
+      "Alat-10"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-64E75222E657",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-EC48D3B81462",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-4398557E1EFA",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "UPS",
+        "rfid": "RFID-6FBA73BB0483",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Panel Listrik",
+        "rfid": "RFID-281180E64D29",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-595AD0C1018D",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 6,
+    "warna_graph": 11
+  },
+  {
+    "id_sesi": "L2-S063",
+    "mata_kuliah": "Algoritma & Pemrograman",
+    "kelas": "A",
+    "dosen": "Dr. Taufik Ph.D. (D11)",
+    "asisten": [
+      "Budi (A11)",
+      "Taufik (A04)"
+    ],
+    "ruang_lab": "Lab-D",
+    "peralatan_lab": [
+      "Alat-09"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4CE596856B72",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Access Point WiFi",
+        "rfid": "RFID-33966505A892",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-779143C98301",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-73FA5401F8C3",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Papan Tulis Digital",
+        "rfid": "RFID-BD7E92E4E868",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-4FCF88C8FE7A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kabel Jaringan Terpasang",
+        "rfid": "RFID-027A6C806A42",
+        "kondisi": "Dalam Perawatan"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-BA430D5D48D0",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 7,
+    "warna_graph": 11
+  },
+  {
+    "id_sesi": "L2-S053",
+    "mata_kuliah": "Jaringan Komputer",
+    "kelas": "A",
+    "dosen": "Dr. Farhan Ph.D. (D03)",
+    "asisten": [
+      "Putri (A15)",
+      "Vina (A09)"
+    ],
+    "ruang_lab": "Lab-F",
+    "peralatan_lab": [
+      "Alat-06"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-3455CB807522",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-B38B0D466021",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Panel Listrik",
+        "rfid": "RFID-DA3C8BB31CA0",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-AFD9ADEF246F",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 7,
+    "warna_graph": 11
+  },
+  {
+    "id_sesi": "L2-S051",
+    "mata_kuliah": "IoT",
+    "kelas": "A",
+    "dosen": "Dr. Hadi M.Eng. (D04)",
+    "asisten": [
+      "Dewi (A08)",
+      "Gita (A18)"
+    ],
+    "ruang_lab": "Lab-C",
+    "peralatan_lab": [
+      "Alat-01",
+      "Alat-12"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Server Rack",
+        "rfid": "RFID-46CA227E7CBE",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-F71B943EC556",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Printer 3D",
+        "rfid": "RFID-04F60C42AA5B",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "AC (Pendingin Ruangan)",
+        "rfid": "RFID-7F90239D050A",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-F1624E85F00C",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "PC Desktop Praktikum",
+        "rfid": "RFID-5A187DB706D8",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Switch Jaringan",
+        "rfid": "RFID-1CCA96B6E9AE",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 8,
+    "warna_graph": 11
+  },
+  {
+    "id_sesi": "L2-S056",
+    "mata_kuliah": "Machine Learning",
+    "kelas": "A",
+    "dosen": "Dr. Adi S.Kom., M.Kom. (D05)",
+    "asisten": [
+      "Gita (A18)",
+      "Vina (A09)"
+    ],
+    "ruang_lab": "Lab-F",
+    "peralatan_lab": [
+      "Alat-12"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-3455CB807522",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-B38B0D466021",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Panel Listrik",
+        "rfid": "RFID-DA3C8BB31CA0",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-AFD9ADEF246F",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 9,
+    "warna_graph": 12
+  },
+  {
+    "id_sesi": "L2-S029",
+    "mata_kuliah": "Jaringan Komputer",
+    "kelas": "A",
+    "dosen": "Dr. Dewi M.Cs. (D06)",
+    "asisten": [
+      "Indah (A20)",
+      "Putri (A15)"
+    ],
+    "ruang_lab": "Lab-E",
+    "peralatan_lab": [
+      "Alat-08"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Rak Peralatan",
+        "rfid": "RFID-A3B5D0584693",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-4BF1E271E48F",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-90122A6EB39F",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Meja Kerja Lab",
+        "rfid": "RFID-3E015DEF35DC",
+        "kondisi": "Dalam Perawatan"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 9,
+    "warna_graph": 12
+  },
+  {
+    "id_sesi": "L2-S003",
+    "mata_kuliah": "Sistem Tertanam",
+    "kelas": "B",
+    "dosen": "Dr. Taufik Ph.D. (D11)",
+    "asisten": [
+      "Citra (A03)"
+    ],
+    "ruang_lab": "Lab-F",
+    "peralatan_lab": [
+      "Alat-06"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Sound System",
+        "rfid": "RFID-3455CB807522",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-B38B0D466021",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Panel Listrik",
+        "rfid": "RFID-DA3C8BB31CA0",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Osiloskop",
+        "rfid": "RFID-AFD9ADEF246F",
+        "kondisi": "Baik"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 10,
+    "warna_graph": 13
+  },
+  {
+    "id_sesi": "L2-S017",
+    "mata_kuliah": "Jaringan Komputer",
+    "kelas": "C",
+    "dosen": "Dr. Dewi M.Cs. (D06)",
+    "asisten": [
+      "Eka (A19)"
+    ],
+    "ruang_lab": "Lab-A",
+    "peralatan_lab": [
+      "Alat-09"
+    ],
+    "inventaris_ruang_lab": [
+      {
+        "nama_alat": "Layar Proyeksi",
+        "rfid": "RFID-577C27FBF9FB",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Modul Praktikum IoT",
+        "rfid": "RFID-230CA8F5315D",
+        "kondisi": "Perlu Perbaikan"
+      },
+      {
+        "nama_alat": "Whiteboard",
+        "rfid": "RFID-BFCA72EB0AE1",
+        "kondisi": "Baik"
+      },
+      {
+        "nama_alat": "Kamera CCTV",
+        "rfid": "RFID-04BA3DD4F418",
+        "kondisi": "Perlu Perbaikan"
+      }
+    ],
+    "hari": "Jumat",
+    "slot": 10,
+    "warna_graph": 13
+  }
+]
